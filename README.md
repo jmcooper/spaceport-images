@@ -1,2 +1,4 @@
 # spaceport-images
-Copyrighted images for use with online training courses created by Jim Cooper
+Copyrighted images for limited use with online training courses created by Jim Cooper
+
+See license.txt for license restrictions.
